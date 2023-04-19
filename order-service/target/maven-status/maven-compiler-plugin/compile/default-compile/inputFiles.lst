@@ -1,0 +1,10 @@
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/dto/InventoryResponse.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/service/OrderService.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/dto/OrderLineItemDto.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/repository/OrderRepository.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/config/WebClientConfig.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/model/Order.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/model/OrderLineItem.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/dto/OrderRequest.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/OrderServiceApplication.java
+/Users/decagon/myservices/order-service/src/main/java/com/francisca/orderservice/controller/OrderController.java

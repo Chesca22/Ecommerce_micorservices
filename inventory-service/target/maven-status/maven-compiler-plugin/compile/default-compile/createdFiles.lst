@@ -1,0 +1,7 @@
+com/francisca/inventoryService/service/InventoryService.class
+com/francisca/inventoryService/dto/InventoryResponse.class
+com/francisca/inventoryService/repository/InventoryRepository.class
+com/francisca/inventoryService/InventoryServiceApplication.class
+com/francisca/inventoryService/model/Inventory.class
+com/francisca/inventoryService/dto/InventoryResponse$InventoryResponseBuilder.class
+com/francisca/inventoryService/controller/InventoryController.class

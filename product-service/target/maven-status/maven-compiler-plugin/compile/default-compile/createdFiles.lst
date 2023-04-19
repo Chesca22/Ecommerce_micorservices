@@ -1,0 +1,10 @@
+com/francisca/productservice/dto/ProductDto.class
+com/francisca/productservice/dto/ProductResponse.class
+com/francisca/productservice/ProductServiceApplication.class
+com/francisca/productservice/service/ProductService.class
+com/francisca/productservice/dto/ProductDto$ProductDtoBuilder.class
+com/francisca/productservice/controller/ProductController.class
+com/francisca/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/francisca/productservice/repository/ProductRepository.class
+com/francisca/productservice/model/Product$ProductBuilder.class
+com/francisca/productservice/model/Product.class

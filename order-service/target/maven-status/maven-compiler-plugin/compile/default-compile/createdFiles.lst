@@ -1,0 +1,12 @@
+com/francisca/orderservice/model/OrderLineItem.class
+com/francisca/orderservice/service/OrderService.class
+com/francisca/orderservice/model/OrderLineItem$OrderLineItemBuilder.class
+com/francisca/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/francisca/orderservice/dto/OrderLineItemDto.class
+com/francisca/orderservice/config/WebClientConfig.class
+com/francisca/orderservice/repository/OrderRepository.class
+com/francisca/orderservice/model/Order.class
+com/francisca/orderservice/dto/InventoryResponse.class
+com/francisca/orderservice/controller/OrderController.class
+com/francisca/orderservice/dto/OrderRequest.class
+com/francisca/orderservice/OrderServiceApplication.class

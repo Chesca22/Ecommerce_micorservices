@@ -1,0 +1,7 @@
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/controller/ProductController.java
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/repository/ProductRepository.java
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/model/Product.java
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/service/ProductService.java
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/dto/ProductResponse.java
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/dto/ProductDto.java
+/Users/decagon/myservices/product-service/src/main/java/com/francisca/productservice/ProductServiceApplication.java
